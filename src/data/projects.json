@@ -1,0 +1,392 @@
+[
+  {
+    "id": 107,
+    "slug": "10_casa-i-l",
+    "title": {
+      "rendered": "10_Casa I/L"
+    },
+    "acf": {
+      "project_id": "10",
+      "project_title": "Casa I/L",
+      "project_type": "architecture",
+      "year": "2025",
+      "location": "Puertecillo, Región de O’Higgins, Chile",
+      "surface": "380 m²",
+      "architects": "Studio FKS",
+      "associate_architects": "-",
+      "team": "-",
+      "client": "-",
+      "summary": "El encargo consistía en adaptar un terreno con fuerte pendiente para construir una vivienda familiar, generando un sistema de terrazas donde se posa el volumen de la casa.\r\nLa casa se desarrolla en dos pisos y está cubierta por un gran techo de madera que unifica todo el conjunto.\r\nEl primer piso se configura como una gran terraza escalonada que se adapta al relieve natural del lugar. Este nivel alberga los dormitorios de los hijos, una salita y baños, funcionando como una base contenida y cercana al suelo.\r\nEl segundo piso, más abierto y elevado, incluye la habitación principal en suite, junto con el estar, comedor y cocina integrados.\r\nEl techo, pensado como un gran manto, se quiebra y se levanta en su cara norte para dar lugar a un altillo, donde se ubica una oficina con vista al paisaje.",
+      "category": "-",
+      "cover_image": "/assets/projects/10_casa-i-l/ABIERTA_38.webp",
+      "project_images": {
+        "image_1": "/assets/projects/10_casa-i-l/ABIERTA_45.webp",
+        "image_2": "/assets/projects/10_casa-i-l/ABIERTA_37.webp",
+        "image_3": "/assets/projects/10_casa-i-l/ELEVACION-1-CASA-I-L.webp",
+        "image_4": "/assets/projects/10_casa-i-l/ABIERTA_32.webp",
+        "image_5": "/assets/projects/10_casa-i-l/ELEVACION-2-CASA-I-L.webp",
+        "image_6": "/assets/projects/10_casa-i-l/ABIERTA_41.webp",
+        "image_7": "/assets/projects/10_casa-i-l/CERRADA_21-Foto.webp",
+        "image_8": "/assets/projects/10_casa-i-l/CORTE-1-CASA-I-L.webp",
+        "image_9": "/assets/projects/10_casa-i-l/ABIERTA_38.webp",
+        "image_10": false,
+        "image_11": false,
+        "image_12": false,
+        "image_13": false,
+        "image_14": false,
+        "image_15": false
+      }
+    }
+  },
+  {
+    "id": 89,
+    "slug": "08_polo-sur",
+    "title": {
+      "rendered": "09_Ampliación Polo Sur"
+    },
+    "acf": {
+      "project_id": "9",
+      "project_title": "Ampliación Polo Sur",
+      "project_type": "architecture",
+      "year": "2025",
+      "location": "Vitacura, Santiago, Chile",
+      "surface": "60 m²",
+      "architects": "Studio FKS",
+      "associate_architects": "-",
+      "team": "-",
+      "client": "-",
+      "summary": "Este proyecto interviene una vivienda existente en el conjunto Townhouses Lo Recabarren, en Vitacura, con el objetivo de ampliar y cualificar sus espacios interiores y exteriores. En el segundo piso, se reorganizó el dormitorio principal mediante la apertura de un muro hacia un nuevo escritorio con librero, integrando además el diseño de cama y mueble de televisión.\r\nEn el primer nivel, la operación más significativa se concentra en el exterior: se excavaron 1,5 metros de tierra para construir un patio en tres niveles, articulando la topografía del sitio. La primera terraza se conecta directamente con el estar interior; la segunda contiene la piscina y un área verde; y la tercera, en el nivel más bajo, alberga un quincho interiorizado con comedor, parrilla y espacio de estar con televisión. Esta transición escalonada permite una relación fluida entre los espacios y mejora radicalmente el uso del terreno.",
+      "category": "-",
+      "cover_image": "/assets/projects/08_polo-sur/ps_foto_1-scaled.webp",
+      "project_images": {
+        "image_1": "/assets/projects/08_polo-sur/ps_img_1.webp",
+        "image_2": "/assets/projects/08_polo-sur/ps_corte_1-scaled.webp",
+        "image_3": "/assets/projects/08_polo-sur/ps_foto_3-scaled.webp",
+        "image_4": "/assets/projects/08_polo-sur/ps_foto_2.webp",
+        "image_5": "/assets/projects/08_polo-sur/planta-piso-1-polo-sur.webp",
+        "image_6": "/assets/projects/08_polo-sur/ps_foto_1-scaled.webp",
+        "image_7": "/assets/projects/08_polo-sur/ps_img_2.webp",
+        "image_8": false,
+        "image_9": false,
+        "image_10": false,
+        "image_11": false,
+        "image_12": false,
+        "image_13": false,
+        "image_14": false,
+        "image_15": false
+      }
+    }
+  },
+  {
+    "id": 90,
+    "slug": "09_casa-marita",
+    "title": {
+      "rendered": "08_Casa Marita"
+    },
+    "acf": {
+      "project_id": "8",
+      "project_title": "Casa Marita",
+      "project_type": "architecture",
+      "year": "2025",
+      "location": "Santo Domingo, Valparaíso, Chile",
+      "surface": "220 m²",
+      "architects": "Studio FKS",
+      "associate_architects": "-",
+      "team": "-",
+      "client": "-",
+      "summary": "Ubicada frente a la costa de Santo Domingo, Casa Marita se proyecta como un refugio de descanso para su propietario y su familia. La vivienda se organiza en dos niveles: un zócalo en hormigón y acero, y un segundo piso de madera laminada que contiene el programa principal. Este nivel superior puede funcionar de manera autónoma, pensado para ser habitado en soledad, mientras que el nivel inferior –con tres dormitorios adicionales– se reserva para la visita de los hijos. Con una vista privilegiada hacia la playa, la casa diluye el límite entre interior y exterior: los ventanales se retraen completamente en los muros, haciendo desaparecer la frontera con el paisaje.",
+      "category": "-",
+      "cover_image": "/assets/projects/09_casa-marita/cmarita_img_2.webp",
+      "project_images": {
+        "image_1": "/assets/projects/09_casa-marita/cmarita_img_1.webp",
+        "image_2": "/assets/projects/09_casa-marita/PLANTA-MARITA-scaled.webp",
+        "image_3": "/assets/projects/09_casa-marita/cmarita_img_2.webp",
+        "image_4": "/assets/projects/09_casa-marita/ELEVACION-MARITA.webp",
+        "image_5": false,
+        "image_6": false,
+        "image_7": false,
+        "image_8": false,
+        "image_9": false,
+        "image_10": false,
+        "image_11": false,
+        "image_12": false,
+        "image_13": false,
+        "image_14": false,
+        "image_15": false
+      }
+    }
+  },
+  {
+    "id": 88,
+    "slug": "07_parque-huenao",
+    "title": {
+      "rendered": "07_Parque Huenao"
+    },
+    "acf": {
+      "project_id": "7",
+      "project_title": "Parque Huenao",
+      "project_type": "architecture",
+      "year": "2024",
+      "location": "Huenao, Archipiélago de Chiloé, Chile",
+      "surface": "250 m²",
+      "architects": "Studio FKS",
+      "associate_architects": "-",
+      "team": "-",
+      "client": "-",
+      "summary": "Masterplan y viviendas unifamiliares. Parque Huenao es un proyecto de planificación territorial que busca conjugar vida comunitaria, paisaje y arquitectura en madera. El masterplan organiza seis lotes de gran escala como células autónomas, evitando el contacto entre viviendas para liberar amplios espacios comunes y senderos transversales. Esto permite una circulación abierta por todo el predio de 7,2 hectáreas, conectando espontáneamente miradores, la playa, una casa bote, un quincho común y las viviendas de los vecinos, todos parte de una comunidad cercana de amigos.\r\nCada casa se proyecta en madera y con un diseño flexible: el volumen principal queda habitado todo el año por los propietarios, mientras una segunda ala –con dormitorios y salita para las hijas– puede mantenerse cerrada cuando no está en uso. Esta estrategia permite adaptar la escala de la vivienda según el momento del año y el número de habitantes, sin perder unidad arquitectónica.",
+      "category": "-",
+      "cover_image": "/assets/projects/07_parque-huenao/ph_img_2.webp",
+      "project_images": {
+        "image_1": "/assets/projects/07_parque-huenao/ph_img_3.webp",
+        "image_2": "/assets/projects/07_parque-huenao/ph_img_2.webp",
+        "image_3": "/assets/projects/07_parque-huenao/ph_img_5.webp",
+        "image_4": "/assets/projects/07_parque-huenao/ph_img_4.webp",
+        "image_5": "/assets/projects/07_parque-huenao/ph_img_7.webp",
+        "image_6": "/assets/projects/07_parque-huenao/ph_img_6.webp",
+        "image_7": "/assets/projects/07_parque-huenao/ph_img_1.webp",
+        "image_8": false,
+        "image_9": false,
+        "image_10": false,
+        "image_11": false,
+        "image_12": false,
+        "image_13": false,
+        "image_14": false,
+        "image_15": false
+      }
+    }
+  },
+  {
+    "id": 86,
+    "slug": "05_la-habitacion",
+    "title": {
+      "rendered": "06_Remodelación Casa Habitación"
+    },
+    "acf": {
+      "project_id": "6",
+      "project_title": "Remodelación Casa Habitación",
+      "project_type": "architecture",
+      "year": "2021",
+      "location": "San Miguel, Isla de Chiloé, Chile",
+      "surface": "110 m²",
+      "architects": "Studio FKS",
+      "associate_architects": "Francisco Valdés",
+      "team": "-",
+      "client": "-",
+      "summary": "Este proyecto consiste en la restauración y ampliación de una vivienda construida por Smiljan Radić en 1997, ubicada en San Miguel, Chiloé. La casa, abandonada por sus antiguos propietarios, presentaba severos daños estructurales: el techo colapsado, pisos y cielos en estado de descomposición. El encargo fue rehabilitar el volumen original respetando su diseño, y añadir un nuevo programa que permitiera usar la casa como espacio común para eventos o como habitación de invitados.\r\nEl nuevo volumen, que contiene el baño principal, se emplaza un nivel más bajo, generando así una terraza-muelle sobre su cubierta, a la cual se accede desde el volumen restaurado. La escalera original, que antes subía al altillo, fue removida y reubicada para conectar con esta nueva ampliación. Desde el exterior, el volumen se percibe como un basamento oculto; desde el interior, se revela como una pieza escultórica: el WC está contenido dentro de un cilindro, y un hot tub se ubica a nivel de la terraza, completando la experiencia inmersiva en el paisaje chilote.",
+      "category": "-",
+      "cover_image": "/assets/projects/05_la-habitacion/lh_axo_1.webp",
+      "project_images": {
+        "image_1": "/assets/projects/05_la-habitacion/lh_img_2.webp",
+        "image_2": "/assets/projects/05_la-habitacion/lh_plan_1-scaled-1.webp",
+        "image_3": "/assets/projects/05_la-habitacion/lh_img_1.webp",
+        "image_4": "/assets/projects/05_la-habitacion/lh_img_4.webp",
+        "image_5": "/assets/projects/05_la-habitacion/lh_elev_1.webp",
+        "image_6": "/assets/projects/05_la-habitacion/lh_img_3.webp",
+        "image_7": "/assets/projects/05_la-habitacion/lh_axo_1.webp",
+        "image_8": "/assets/projects/05_la-habitacion/lh_img_5.webp",
+        "image_9": false,
+        "image_10": false,
+        "image_11": false,
+        "image_12": false,
+        "image_13": false,
+        "image_14": false,
+        "image_15": false
+      }
+    }
+  },
+  {
+    "id": 87,
+    "slug": "06_casa-margarita",
+    "title": {
+      "rendered": "05_Casa Margarita"
+    },
+    "acf": {
+      "project_id": "5",
+      "project_title": "Casa Margarita",
+      "project_type": "architecture",
+      "year": "2022",
+      "location": "Isla Coldita, Archipiélago de Chiloé, Chile",
+      "surface": "120 m²",
+      "architects": "Studio FKS",
+      "associate_architects": "-",
+      "team": "-",
+      "client": "-",
+      "summary": "Segunda vivienda y espacio de encuentro familiar. Casa Margarita se ubica en la Isla Coldita, frente a la boca de una pequeña bahía, en un lugar que combina el carácter de balneario rural. El encargo consistía en proyectar una casa que se integrara al paisaje con sencillez y respeto por el entorno natural, proponiendo un volumen que acompaña la geografía sin imponerse a ella.\r\nEl programa contempla un gran espacio integrado de estar, comedor y cocina pensado como corazón social de la casa, donde puedan reunirse todos los miembros de la familia. Además, se incorpora una habitación principal en suite.\r\nToda la construcción se resuelve con maderas nativas del lugar, respetando los saberes y recursos locales. Se utilizan mañío colorado, ciprés de las Guaitecas y revestimientos en tejuelas de alerce y canelo, consolidando así una imagen profundamente arraigada al territorio chilote.",
+      "category": "-",
+      "cover_image": "/assets/projects/06_casa-margarita/cmargarita_img_4.webp",
+      "project_images": {
+        "image_1": "/assets/projects/06_casa-margarita/cmargarita_img_1-scaled.webp",
+        "image_2": "/assets/projects/06_casa-margarita/cmargarita_img_7.webp",
+        "image_3": "/assets/projects/06_casa-margarita/cmargarita_img_5.webp",
+        "image_4": "/assets/projects/06_casa-margarita/cmargarita_img_3.webp",
+        "image_5": "/assets/projects/06_casa-margarita/cmargarita_img_2.webp",
+        "image_6": "/assets/projects/06_casa-margarita/cmargarita_img_10.webp",
+        "image_7": "/assets/projects/06_casa-margarita/cmargarita_img_8.webp",
+        "image_8": false,
+        "image_9": false,
+        "image_10": false,
+        "image_11": false,
+        "image_12": false,
+        "image_13": false,
+        "image_14": false,
+        "image_15": false
+      }
+    }
+  },
+  {
+    "id": 100,
+    "slug": "03_cama-oscar",
+    "title": {
+      "rendered": "04_Cama Oscar"
+    },
+    "acf": {
+      "project_id": "4",
+      "project_title": "Cama Oscar",
+      "project_type": "furniture",
+      "year": "2025",
+      "location": "-",
+      "surface": "- m²",
+      "architects": "-",
+      "associate_architects": "-",
+      "team": "-",
+      "client": "-",
+      "summary": "-",
+      "category": "-",
+      "cover_image": "/assets/projects/03_cama-oscar/axo_cama_oscar.webp",
+      "project_images": {
+        "image_1": false,
+        "image_2": false,
+        "image_3": false,
+        "image_4": false,
+        "image_5": false,
+        "image_6": false,
+        "image_7": false,
+        "image_8": false,
+        "image_9": false,
+        "image_10": false,
+        "image_11": false,
+        "image_12": false,
+        "image_13": false,
+        "image_14": false,
+        "image_15": false
+      }
+    }
+  },
+  {
+    "id": 68,
+    "slug": "04_hat-hain",
+    "title": {
+      "rendered": "03_Hain Hut"
+    },
+    "acf": {
+      "project_id": "3",
+      "project_title": "Hain Hut",
+      "project_type": "architecture",
+      "year": "2021",
+      "location": "Patagonia, Chile",
+      "surface": "50 m²",
+      "architects": "Studio FKS",
+      "associate_architects": "Roberto Hiribarren, Juan Ignacio Baixas",
+      "team": "-",
+      "client": "-",
+      "summary": "Cabaña prefabricada inspirada en arquitectura selk'nam. Hain Hut es una cabaña minimalista de 50 m² que reinterpreta las formas arquetípicas de las chozas cónicas de los pueblos selk'nam, antiguos habitantes de Tierra del Fuego. Prefabricada y transportable, está pensada para asentarse en distintos paisajes del sur de Chile, dialogando con el entorno natural desde su geometría esencial. Con una planta elíptica y una volumetría cónica, su interior propone un recorrido programático helicoidal que organiza un espacio abierto y continuo, permitiendo vivir el volumen completo como un único refugio. Al centro, un óculo en la punta se transforma en un gran ventanal orientado al cielo: desde ahí se contempla el paso de las nubes, las estrellas y la luna llena, iluminando de forma casi ceremonial el interior.",
+      "category": "-",
+      "cover_image": "/assets/projects/04_hat-hain/hh_img_5.webp",
+      "project_images": {
+        "image_1": "/assets/projects/04_hat-hain/hh_img_1.webp",
+        "image_2": "/assets/projects/04_hat-hain/hh_img_4.webp",
+        "image_3": "/assets/projects/04_hat-hain/hh_img_2.webp",
+        "image_4": "/assets/projects/04_hat-hain/hh_img_3.webp",
+        "image_5": false,
+        "image_6": false,
+        "image_7": false,
+        "image_8": false,
+        "image_9": false,
+        "image_10": false,
+        "image_11": false,
+        "image_12": false,
+        "image_13": false,
+        "image_14": false,
+        "image_15": false
+      }
+    }
+  },
+  {
+    "id": 105,
+    "slug": "01_mueble-dos-caras",
+    "title": {
+      "rendered": "02_Mueble Dos Caras"
+    },
+    "acf": {
+      "project_id": "2",
+      "project_title": "Mueble Tv-Librero",
+      "project_type": "furniture",
+      "year": "2025",
+      "location": "-",
+      "surface": "- m²",
+      "architects": "-",
+      "associate_architects": "-",
+      "team": "-",
+      "client": "-",
+      "summary": "-",
+      "category": "-",
+      "cover_image": "/assets/projects/01_mueble-dos-caras/axo_mueble_doscaras-scaled.webp",
+      "project_images": {
+        "image_1": false,
+        "image_2": false,
+        "image_3": false,
+        "image_4": false,
+        "image_5": false,
+        "image_6": false,
+        "image_7": false,
+        "image_8": false,
+        "image_9": false,
+        "image_10": false,
+        "image_11": false,
+        "image_12": false,
+        "image_13": false,
+        "image_14": false,
+        "image_15": false
+      }
+    }
+  },
+  {
+    "id": 99,
+    "slug": "02_conjunto-isabel-riquelme",
+    "title": {
+      "rendered": "01_Conjunto Isabel Riquelme"
+    },
+    "acf": {
+      "project_id": "1",
+      "project_title": "Conjunto Isabel Riquelme",
+      "project_type": "architecture",
+      "year": "2020",
+      "location": "Zanjón de la Aguada, Santiago, Chile",
+      "surface": "60.000 m²",
+      "architects": "Studio FKS",
+      "associate_architects": "Francisco Valdés, Juan Ignacio Baixas",
+      "team": "-",
+      "client": "-",
+      "summary": "Concurso CAP 2020, Segundo Lugar.\r\nLa Unidad Vecinal Isabel Riquelme es una propuesta de vivienda colectiva que responde al déficit habitacional y a la saturación del suelo urbano en Santiago. El proyecto se emplaza junto al Parque Intercomunal Víctor Jara, en un área estratégicamente conectada y con fuerte potencial de integración urbana.\r\nLa propuesta plantea un sistema de 760 módulos habitacionales intercambiables, suspendidos sobre el suelo mediante una estructura de marcos rígidos de acero, conformada por torres antimétricas y una gran viga habitable de 740 metros de largo. Esta estrategia libera el terreno para usos públicos y mixtos, acogiendo comercio formal e informal, áreas verdes y equipamiento barrial.\r\nCada módulo se adapta a distintas configuraciones familiares y capacidades económicas, gracias a su diseño prefabricado, flexible y replicable. En el nivel superior, la viga habitable actúa como paseo aéreo y espacio social, promoviendo la vida comunitaria a través de servicios compartidos.",
+      "category": "-",
+      "cover_image": "/assets/projects/02_conjunto-isabel-riquelme/ir_img_1.webp",
+      "project_images": {
+        "image_1": "/assets/projects/02_conjunto-isabel-riquelme/ir_img_4.webp",
+        "image_2": "/assets/projects/02_conjunto-isabel-riquelme/ir_img_2.webp",
+        "image_3": "/assets/projects/02_conjunto-isabel-riquelme/ir_c_1.webp",
+        "image_4": "/assets/projects/02_conjunto-isabel-riquelme/ir_img_3.webp",
+        "image_5": "/assets/projects/02_conjunto-isabel-riquelme/ir_img_1.webp",
+        "image_6": false,
+        "image_7": false,
+        "image_8": false,
+        "image_9": false,
+        "image_10": false,
+        "image_11": false,
+        "image_12": false,
+        "image_13": false,
+        "image_14": false,
+        "image_15": false
+      }
+    }
+  }
+]
