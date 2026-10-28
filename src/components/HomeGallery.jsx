@@ -1,6 +1,7 @@
 import { useContext, useEffect, useState } from "react";
 import { ApiContext } from "../context/ApiContext";
 import { Link } from "react-router-dom";
+import { thumb } from "../utils/thumb";
 import { Parallax } from "react-scroll-parallax";
 
 const HomeGallery = ({ setCursorText }) => {
@@ -39,7 +40,7 @@ const HomeGallery = ({ setCursorText }) => {
       const preloadImages = sortedProjects.map((project) => {
         return new Promise((resolve) => {
           const img = new Image();
-          img.src = project.acf.cover_image;
+          img.src = thumb(project.acf.cover_image);
           img.onload = resolve;
           img.onerror = resolve;
         });
@@ -115,7 +116,7 @@ const HomeGallery = ({ setCursorText }) => {
               {project.acf.project_type !== "furniture" ? (
                 <Link to={`/${project.slug}`}>
                   <img
-                    src={project.acf.cover_image}
+                    src={thumb(project.acf.cover_image)}
                     alt={project.slug}
                     className="w-full h-auto transition-transform duration-300 ease-in-out group-hover:scale-105"
                     loading="lazy"
@@ -124,7 +125,7 @@ const HomeGallery = ({ setCursorText }) => {
                 </Link>
               ) : (
                 <img
-                  src={project.acf.cover_image}
+                  src={thumb(project.acf.cover_image)}
                   alt={project.slug}
                   className="w-full h-auto transition-transform duration-300 ease-in-out group-hover:scale-105"
                   loading="lazy"
@@ -167,7 +168,7 @@ const HomeGallery = ({ setCursorText }) => {
             {project.acf.project_type !== "furniture" ? (
               <Link to={`/${project.slug}`}>
                 <img
-                  src={project.acf.cover_image}
+                  src={thumb(project.acf.cover_image)}
                   alt={project.slug}
                   className="w-full h-auto"
                   loading="lazy"
@@ -175,7 +176,7 @@ const HomeGallery = ({ setCursorText }) => {
               </Link>
             ) : (
               <img
-                src={project.acf.cover_image}
+                src={thumb(project.acf.cover_image)}
                 alt={project.slug}
                 className="w-full h-auto"
                 loading="lazy"

@@ -49,6 +49,16 @@ const ProjectGallery = ({ setCursorText }) => {
     };
   }, [projects, projectSlug]);
 
+  // Preload neighbours so next/prev navigation is instant
+  useEffect(() => {
+    if (!project?.acf.project_images) return;
+    const valid = Object.values(project.acf.project_images).filter(Boolean);
+    [1, -1].forEach((d) => {
+      const src = valid[(currentImageIndex + d + valid.length) % valid.length];
+      if (src) new Image().src = src;
+    });
+  }, [project, currentImageIndex]);
+
   const handleNextImage = () => {
     if (project && project.acf.project_images) {
       const validImages = Object.values(project.acf.project_images).filter(

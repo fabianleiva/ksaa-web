@@ -1,6 +1,7 @@
 import { useContext } from "react";
 import { ApiContext } from "../context/ApiContext";
 import { useNavigate } from "react-router-dom";
+import { thumb } from "../utils/thumb";
 
 const ProjectsList = () => {
   const { projects } = useContext(ApiContext);
@@ -68,7 +69,7 @@ const ProjectsList = () => {
                 <div className="flex justify-between items-end">
                   <div>
                     <img
-                      src={p.acf.cover_image}
+                      src={thumb(p.acf.cover_image)}
                       alt={p.acf.project_title}
                       className="py-6 lg:max-h-[50vh] lg:transition-transform lg:duration-300 lg:hover:-translate-x-5"
                       onClick={() => navigate(`/${p.slug}`)}
