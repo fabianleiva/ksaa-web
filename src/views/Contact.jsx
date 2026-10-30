@@ -5,10 +5,10 @@ const Contact = () => {
     <main className="absolute inset-0 flex justify-center items-center overflow-hidden px-3 font-work-sans page-fade-in">
       <section className="text-center">
         <div>
-          <p>Málaga 254, oficina 52</p>
-          <p>Las Condes, Santiago. CHILE</p>
-          <p>Zip 7510077</p>
+          <p>Francisco de Riveros 4375</p>
+          <p>Vitacura, Santiago. CHILE</p>
           <p className="mt-5">+56 9 7969 8916</p>
+          <p>+56 9 6727 5050</p>
         </div>
         <div className="mt-5">
           <p>contacto@ksaa.cl</p>
