@@ -1,3 +1,5 @@
+import socios from "../assets/socios.webp";
+
 const Office = () => {
   return (
     <main className="pt-[20vh] px-5 page-fade-in">
@@ -22,6 +24,11 @@ const Office = () => {
             por los socios en oficinas nacionales e internacionales nos permite
             operar con una mirada crítica, contemporánea y multidisciplinaria.
           </p>
+          <img
+            src={socios}
+            alt="Tomás Keymer y Andrés Sanfuentes"
+            className="w-full aspect-square mt-10 object-cover"
+          />
         </div>
       </section>
 

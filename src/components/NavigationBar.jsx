@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { NavLink, useLocation } from "react-router-dom";
+import logo from "../assets/logo-ksaa.webp";
 
 const NavigationBar = () => {
   const { pathname } = useLocation();
@@ -18,10 +19,11 @@ const NavigationBar = () => {
                 to="/"
                 className="text-3xl font-work-sans tracking-tight flex items-center duration-200 group whitespace-nowrap"
               >
-                <div className="flex items-center transition-colors group-hover:text-[#848484]">
-                  ksaa
-                  <span className="ml-2 w-2.5 h-2.5 rounded-full inline-block bg-[#000000] transition-colors group-hover:bg-[#848484]"></span>
-                </div>
+                <img
+                  src={logo}
+                  alt="Studio KSAA"
+                  className="h-9 lg:h-10 w-auto transition-opacity group-hover:opacity-50"
+                />
               </NavLink>
             </div>
 
